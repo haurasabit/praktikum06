@@ -1,0 +1,44 @@
+.body{
+    background-color: blanchedalmond;
+}
+
+#header{
+    text-align: center;
+    background-color: rgb(237, 138, 17);
+    color: #4f342c;
+}
+
+.mini-box{
+    background-color: antiquewhite;
+}
+
+.p-b-h{
+    list-style: none;
+    display: flex;
+    justify-content:space-evenly
+}
+
+.gambar{
+   width: 10px;
+   display: flex;
+   justify-content: center;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+.isi{
+    text-align: justify;
+    width: fit-content;
+}
+
+.jawa{
+    font-size: xx-large;
+    color: rgb(102, 58, 5);
+}
+
+.koleksi{
+    margin: auto;
+    display:flex;
+    margin-left: auto;
+    margin-right: auto; 
+}
